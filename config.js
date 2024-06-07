@@ -1,6 +1,6 @@
 module.exports = {
     bot: {
-        token: "", //botun tokeni
+        token: "", //MTI0ODU5NDM2NjQxNTUwMzM3Mw.GQd6MA.RzUa2OyXAF_RoUO_abPCOrtpABe92l8klWQuwk
         prefix: ".", //botun prefixi
         mongoDb: "", //MongoDB Url. Youtubede araştırarak nasıl alınacagını öürenebilirsiniz
         owners: ["owner-id-1"]
